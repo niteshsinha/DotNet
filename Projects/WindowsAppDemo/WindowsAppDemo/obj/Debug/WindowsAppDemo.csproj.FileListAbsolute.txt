@@ -1,0 +1,9 @@
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\WindowsAppDemo\WindowsAppDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\WindowsAppDemo\WindowsAppDemo\obj\Debug\WindowsAppDemo.Form1.resources
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\WindowsAppDemo\WindowsAppDemo\obj\Debug\WindowsAppDemo.Properties.Resources.resources
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\WindowsAppDemo\WindowsAppDemo\obj\Debug\WindowsAppDemo.csproj.GenerateResource.Cache
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\WindowsAppDemo\WindowsAppDemo\bin\Debug\WindowsAppDemo.exe
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\WindowsAppDemo\WindowsAppDemo\bin\Debug\WindowsAppDemo.pdb
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\WindowsAppDemo\WindowsAppDemo\obj\Debug\WindowsAppDemo.exe
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\WindowsAppDemo\WindowsAppDemo\obj\Debug\WindowsAppDemo.pdb
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\WindowsAppDemo\WindowsAppDemo\obj\Debug\WindowsAppDemo.Form2.resources

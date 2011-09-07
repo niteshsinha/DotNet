@@ -1,0 +1,8 @@
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\DatabaseDemo\DatabaseDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\DatabaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.Form1.resources
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\DatabaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.Properties.Resources.resources
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\DatabaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.csproj.GenerateResource.Cache
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\DatabaseDemo\DatabaseDemo\bin\Debug\DatabaseDemo.exe
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\DatabaseDemo\DatabaseDemo\bin\Debug\DatabaseDemo.pdb
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\DatabaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.exe
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\DatabaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.pdb

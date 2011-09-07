@@ -1,0 +1,7 @@
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\CollectionsDemo\CollectionsDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\CollectionsDemo\CollectionsDemo\bin\Debug\CollectionsDemo.exe
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\CollectionsDemo\CollectionsDemo\bin\Debug\CollectionsDemo.pdb
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\CollectionsDemo\CollectionsDemo\bin\Debug\CollectionsDLL.dll
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\CollectionsDemo\CollectionsDemo\bin\Debug\CollectionsDLL.pdb
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\CollectionsDemo\CollectionsDemo\obj\Debug\CollectionsDemo.exe
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\CollectionsDemo\CollectionsDemo\obj\Debug\CollectionsDemo.pdb

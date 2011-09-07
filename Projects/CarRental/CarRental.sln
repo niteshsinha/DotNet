@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRental", "CarRental\CarRental.csproj", "{B4ECEC50-093E-4BF6-B40C-7A3B531F65C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentalDLL", "CarRentalDLL\CarRentalDLL.csproj", "{3B99F166-9920-48D8-855D-DBF44431591D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4ECEC50-093E-4BF6-B40C-7A3B531F65C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4ECEC50-093E-4BF6-B40C-7A3B531F65C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4ECEC50-093E-4BF6-B40C-7A3B531F65C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4ECEC50-093E-4BF6-B40C-7A3B531F65C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B99F166-9920-48D8-855D-DBF44431591D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B99F166-9920-48D8-855D-DBF44431591D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B99F166-9920-48D8-855D-DBF44431591D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B99F166-9920-48D8-855D-DBF44431591D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

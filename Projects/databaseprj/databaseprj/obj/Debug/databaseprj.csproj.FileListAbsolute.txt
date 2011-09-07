@@ -1,0 +1,20 @@
+C:\Documents and Settings\training\My Documents\Visual Studio 2008\Projects\databaseprj\databaseprj\bin\Debug\databaseprj.exe
+C:\Documents and Settings\training\My Documents\Visual Studio 2008\Projects\databaseprj\databaseprj\bin\Debug\databaseprj.pdb
+C:\Documents and Settings\training\My Documents\Visual Studio 2008\Projects\databaseprj\databaseprj\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\training\My Documents\Visual Studio 2008\Projects\databaseprj\databaseprj\obj\Debug\databaseprj.Form1.resources
+C:\Documents and Settings\training\My Documents\Visual Studio 2008\Projects\databaseprj\databaseprj\obj\Debug\databaseprj.Properties.Resources.resources
+C:\Documents and Settings\training\My Documents\Visual Studio 2008\Projects\databaseprj\databaseprj\obj\Debug\databaseprj.csproj.GenerateResource.Cache
+C:\Documents and Settings\training\My Documents\Visual Studio 2008\Projects\databaseprj\databaseprj\obj\Debug\databaseprj.exe
+C:\Documents and Settings\training\My Documents\Visual Studio 2008\Projects\databaseprj\databaseprj\obj\Debug\databaseprj.pdb
+C:\Documents and Settings\training\My Documents\Visual Studio 2008\Projects\databaseprj\databaseprj\obj\Debug\databaseprj.Form2.resources
+D:\databaseprj\databaseprj\obj\Debug\databaseprj.exe
+D:\databaseprj\databaseprj\obj\Debug\databaseprj.pdb
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\databaseprj\databaseprj\obj\Debug\databaseprj.pdb
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\databaseprj\databaseprj\bin\Debug\databaseprj.exe
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\databaseprj\databaseprj\bin\Debug\databaseprj.pdb
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\databaseprj\databaseprj\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\databaseprj\databaseprj\obj\Debug\databaseprj.Form1.resources
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\databaseprj\databaseprj\obj\Debug\databaseprj.Form2.resources
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\databaseprj\databaseprj\obj\Debug\databaseprj.Properties.Resources.resources
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\databaseprj\databaseprj\obj\Debug\databaseprj.csproj.GenerateResource.Cache
+C:\Users\Nitesh\Documents\Visual Studio 2008\Projects\databaseprj\databaseprj\obj\Debug\databaseprj.exe
